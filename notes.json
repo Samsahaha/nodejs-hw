@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Team meeting agenda",
+    "content": "Discuss Q2 goals, sprint planning, and blockers.",
+    "tag": "Meeting"
+  },
+  {
+    "title": "Grocery list",
+    "content": "Milk, eggs, bread, coffee, vegetables.",
+    "tag": "Shopping"
+  },
+  {
+    "title": "Weekend trip ideas",
+    "content": "Research hotels in the Carpathians and book train tickets.",
+    "tag": "Travel"
+  },
+  {
+    "title": "Monthly budget review",
+    "content": "Track expenses and update savings plan.",
+    "tag": "Finance"
+  },
+  {
+    "title": "Morning workout plan",
+    "content": "30 min run, stretching, drink more water.",
+    "tag": "Health"
+  },
+  {
+    "title": "Birthday gift for Alex",
+    "content": "Bookstore voucher or wireless headphones.",
+    "tag": "Personal"
+  },
+  {
+    "title": "Fix login bug",
+    "content": "Reproduce issue in staging and add unit tests.",
+    "tag": "Work"
+  },
+  {
+    "title": "App feature brainstorm",
+    "content": "Dark mode, tags filter, export to PDF.",
+    "tag": "Ideas"
+  },
+  {
+    "title": "Doctor appointment",
+    "content": "Annual check-up on Friday at 10:00.",
+    "tag": "Important"
+  },
+  {
+    "title": "Read documentation",
+    "content": "Finish Mongoose guides before the next lesson.",
+    "tag": "Todo"
+  }
+]
